@@ -1,0 +1,2 @@
+C:\Users\pflores\source\repos\EvaluacionPaoloFernando\EvaluacionPaoloFernando\obj\Debug\EvaluacionPaoloFernando.csproj.AssemblyReference.cache
+C:\Users\pflores\source\repos\EvaluacionPaoloFernando\EvaluacionPaoloFernando\obj\Debug\EvaluacionPaoloFernando.csproj.CoreCompileInputs.cache
